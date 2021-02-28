@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<jws:workspace xmlns:jws="http://xmlns.oracle.com/ide/project">
+   <value n="appTemplateId" v="javaAppTemplate"/>
+   <hash n="component-versions">
+      <value n="oracle.ide.model.Project" v="11.1.1.1.0;12.2.1.4.0"/>
+      <value n="oracle.jdeveloper.maven.migrator.POMNodeMigrator" v="12.2.1.0.0"/>
+   </hash>
+   <list n="contentSets">
+      <string v="oracle.jdeveloper.model.PathsConfiguration/ApplicationBuildToolContentSet"/>
+   </list>
+   <list n="listOfChildren">
+      <hash><url n="URL" path="requerimiento1/requerimiento1.jpr"/></hash>
+      <hash><url n="URL" path="requerimiento2/requerimiento2.jpr"/></hash>
+      <hash><url n="URL" path="requerimiento3/requerimiento3.jpr"/></hash>
+      <hash><url n="URL" path="requerimiento4/requerimiento4.jpr"/></hash>
+      <hash><url n="URL" path="requerimiento5/requerimiento5.jpr"/></hash>
+   </list>
+</jws:workspace>
